@@ -1,0 +1,12 @@
+This is the data analysis coding notebook for one of the most famous ride sharing companies of bangladesh called pathao. This analysis is done as a part of the capstone project for the product management career track by bohubrihi
+
+How the analysis is being done:
+
+Using the python based api to find the general application statistics for the pathao application
+Finding out the comments on the application at bulk,
+Finding out the 5 star and the 4 star reviews to find out the strengths and the opportunities for the product,
+Finding out the 1 and 2 star reviews to find out the weakness and the problems with the product,
+Finally do a overall sentiment analysis of the comments to find out the general perception about the product.
+
+Install command for google play scrapper:
+!pip install google_play_scraper
